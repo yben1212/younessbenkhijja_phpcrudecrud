@@ -1,25 +1,26 @@
 # Ahmad and Co.
 
-### PHP Web Application
+## PHP Web Application
 
 # About
 
-This is a basic dynamic HTML application built with PHP and MySQL/MariaDB.
+This repository contains a lightweight dynamic web application developed using PHP and MariaDB/MySQL. It provides a simple and
+extensible foundation for managing employee data through a browser based interface.
 
 ## Features
 
 Create, read, update, and delete employee records
 Dynamic server-side and client-side web pages
-Basic API endpoints that return data in JSON format
+API endpoints that return data in JSON format
 Python API client examples using the requests module
 Real-time page updates using AJAX
 
 ## Environment Requirements
 
-PHP (7.x or 8.x)
+PHP 7.x or 8.x
 MariaDB or MySQL
 Apache or compatible web server
-A configured credentials.php file (see below)
+A configured credentials.php file
 
 ## Setup and Configuration
 

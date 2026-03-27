@@ -1,5 +1,4 @@
 # PHP Web Application
-**Ahmad and Co.**
 
 # About
 
@@ -26,3 +25,6 @@ This repository contains a lightweight dynamic web application developed using P
 2. Import the sample employees database 
 3. Edit credentials.php with your local database connection settings
 4. Ensure the appropriate MySQL users have been created
+
+
+**Ahmad and Co.**

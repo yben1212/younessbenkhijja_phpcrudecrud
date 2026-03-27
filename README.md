@@ -9,18 +9,18 @@ extensible foundation for managing employee data through a browser based interfa
 
 ## Features
 
-Create, read, update, and delete employee records
-Dynamic server-side and client-side web pages
-API endpoints that return data in JSON format
-Python API client examples using the requests module
-Real-time page updates using AJAX
+- Create, read, update, and delete employee records
+- Dynamic server-side and client-side web pages
+- API endpoints that return data in JSON format
+- Python API client examples using the requests module
+- Real-time page updates using AJAX
 
 ## Environment Requirements
 
-PHP 7.x or 8.x
-MariaDB or MySQL
-Apache or compatible web server
-A configured credentials.php file
+- PHP 7.x or 8.x
+- MariaDB or MySQL
+- Apache or compatible web server
+- A configured credentials.php file
 
 ## Setup and Configuration
 
